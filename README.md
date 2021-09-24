@@ -1,5 +1,7 @@
 # PCB-Designs
 
+Here there are some of the PCBs that I designed, soldered and tested during my 2-year participation in the formula student team, Aristotle University Racing Team Electric - ARISTURTLE. 
+
 ### 1. BSPD - Brake System Plausibility Device
 
 The BSPD PCB is safety circuit which disables the HV Power Supply of the motors controller in case the driver presses simultaniously the gas pedal and the brake pedal very hard. It consists of some active analog filters that filter the input signals of the sensors, the there are some comparators and then some digital logic that controls the relay switch that enables and disables the HV system. Here it shown the schematic of the circuit.
@@ -28,37 +30,39 @@ This is a PCB that is integrated in 3 different places of the car since it is th
 ![photo](Screenshots/Screenshot_8.png)
 ![photo](Screenshots/Screenshot_9.png)
 
-### 4. Custom Battery Tester (Internal Resistance Measuremet)
-
-![photo](Screenshots/Screenshot_10.png)
-![photo](Screenshots/Screenshot_11.png)
-
-### 5. Additinal Action PCB
-
-![photo](Screenshots/Screenshot_12.png)
-![photo](Screenshots/Screenshot_13.png)
-
-### 5. Battery Charger PCB
-
-![photo](Screenshots/Screenshot_14.png)
-![photo](Screenshots/Screenshot_15.png)
-
-### 5. Fusebox PCB
+### 4. Fusebox PCB
 
 ![photo](Screenshots/Screenshot_20.png)
 ![photo](Screenshots/Screenshot_21.png)
 ![photo](Screenshots/Screenshot_22.png)
 ![photo](Screenshots/Screenshot_27.png)
 
-### 5. Custom Oven Control PCB
+### 5. Custom Battery Tester (Internal Resistance Measuremet)
+
+![photo](Screenshots/Screenshot_10.png)
+![photo](Screenshots/Screenshot_11.png)
+
+### 6. Battery Charger PCB
+
+![photo](Screenshots/Screenshot_14.png)
+![photo](Screenshots/Screenshot_15.png)
+
+### 7. Precharge Circuit Testing PCB
+
+![photo](Screenshots/Screenshot_30.png)
+![photo](Screenshots/Screenshot_31.png)
+
+### 8. Additinal Action PCB
+
+![photo](Screenshots/Screenshot_12.png)
+![photo](Screenshots/Screenshot_13.png)
+
+### 9. Custom Oven Control PCB
 
 ![photo](Screenshots/Screenshot_28.png)
 ![photo](Screenshots/Screenshot_29.png)
 
-### 5. Precharge Circuit Testing PCB
 
-![photo](Screenshots/Screenshot_30.png)
-![photo](Screenshots/Screenshot_31.png)
 
 
 
