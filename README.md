@@ -21,3 +21,36 @@ This is a PCB that is integrated in 3 different places of the car since it is th
 ![photo](Screenshots/Screenshot_1.png)
 ![photo](Screenshots/Screenshot_2.png)
 ![photo](Screenshots/Screenshot_3.png)
+
+### 3. Auxiliary PCB
+
+![photo](Screenshots/Screenshot_7.png)
+![photo](Screenshots/Screenshot_8.png)
+![photo](Screenshots/Screenshot_9.png)
+
+### 4. Custom Battery Tester (Internal Resistance Measuremet)
+
+![photo](Screenshots/Screenshot_10.png)
+![photo](Screenshots/Screenshot_11.png)
+
+### 5. Additinal Action PCB
+
+![photo](Screenshots/Screenshot_12.png)
+![photo](Screenshots/Screenshot_13.png)
+
+### 5. Battery Charger PCB
+
+![photo](Screenshots/Screenshot_14.png)
+![photo](Screenshots/Screenshot_15.png)
+
+### 5. Fusebox PCB
+
+![photo](Screenshots/Screenshot_20.png)
+![photo](Screenshots/Screenshot_21.png)
+![photo](Screenshots/Screenshot_22.png)
+![photo](Screenshots/Screenshot_27.png)
+
+
+
+
+
