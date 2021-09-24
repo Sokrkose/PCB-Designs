@@ -50,6 +50,16 @@ This is a PCB that is integrated in 3 different places of the car since it is th
 ![photo](Screenshots/Screenshot_22.png)
 ![photo](Screenshots/Screenshot_27.png)
 
+### 5. Custom Oven Control PCB
+
+![photo](Screenshots/Screenshot_28.png)
+![photo](Screenshots/Screenshot_29.png)
+
+### 5. Precharge Circuit Testing PCB
+
+![photo](Screenshots/Screenshot_30.png)
+![photo](Screenshots/Screenshot_31.png)
+
 
 
 
