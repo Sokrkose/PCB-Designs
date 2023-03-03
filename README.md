@@ -30,34 +30,27 @@ This is a PCB that is integrated in 3 different places of the car since it is th
 ![photo](Screenshots/Screenshot_8.png)
 ![photo](Screenshots/Screenshot_9.png)
 
-### 4. Fusebox PCB
-
-![photo](Screenshots/Screenshot_20.png)
-![photo](Screenshots/Screenshot_21.png)
-![photo](Screenshots/Screenshot_22.png)
-![photo](Screenshots/Screenshot_27.png)
-
-### 5. Precharge Circuit Testing PCB
+### 4. Precharge Circuit Testing PCB
 
 ![photo](Screenshots/Screenshot_30.png)
 ![photo](Screenshots/Screenshot_31.png)
 
-### 6. Custom Battery Tester (Internal Resistance Measuremet)
+### 5. Custom Battery Tester (Internal Resistance Measuremet)
 
 ![photo](Screenshots/Screenshot_10.png)
 ![photo](Screenshots/Screenshot_11.png)
 
-### 7. Battery Charger PCB
+### 6. Battery Charger PCB
 
 ![photo](Screenshots/Screenshot_14.png)
 ![photo](Screenshots/Screenshot_15.png)
 
-### 8. Additinal Action PCB
+### 7. Additinal Action PCB
 
 ![photo](Screenshots/Screenshot_12.png)
 ![photo](Screenshots/Screenshot_13.png)
 
-### 9. Custom Oven Control PCB
+### 8. Custom Oven Control PCB
 
 ![photo](Screenshots/Screenshot_28.png)
 ![photo](Screenshots/Screenshot_29.png)
